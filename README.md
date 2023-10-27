@@ -3,6 +3,10 @@
 
 Pasos para ejecutar en un entorno de desarrollo como Visual Studio Code.
 
+- El primer comando es npm install
+
+Luego:
+
 - Ejecutar comando npm i json-server
 
 - Ejecutar comando npm install -g json-server
